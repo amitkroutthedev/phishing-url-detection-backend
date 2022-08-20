@@ -111,6 +111,11 @@ Deactivate the virtual environment
 ```bash 
 deactivate
 ```
+
+- Frontend - https://github.com/amitkroutthedev/phishing-url-detection-frontend
+- Live Extension - https://github.com/amitkroutthedev/phishing-url-detection-extension
+- ML - https://github.com/amitkroutthedev/phishing-url-detection-ml
+
 ## Contributing
 
 Contributions are always welcome!
